@@ -14,6 +14,7 @@ point = (3,4)
 x,y = point # unpacking
 
 # Dictionaries (key value pairs)
+
 person = {"name": "Alice", "age": 30}
 
 person["name"]              # Alice
